@@ -32,8 +32,9 @@ So basically, it's a web app where you can browse through yummy food items, add 
 - **Git** - So I don't accidentally break everything
 
 
-What's Inside? 📂
+## What's Inside? 📂
 
+```
 food-del/
 │
 ├── front-end/                 # All the good stuff
@@ -45,8 +46,15 @@ food-del/
 │   │   ├── App.jsx            # Where it all comes together
 │   │   └── main.jsx           # The starting point
 │   │
-│   ├── public/                 # Public stuff (images, etc.)
-│   ├── index.html              # The HTML template
-│   └── package.json            # List of things I installed
+│   ├── public/                # Public stuff (images, etc.)
+│   ├── index.html             # The HTML template
+│   └── package.json           # List of things I installed
 │
-└── package-lock.json           # Don't touch this, trust me 🤫
+└── package-lock.json          # Don't touch this, trust me 🤫
+```
+Found a Bug? 🐛
+Well, that's embarrassing! But hey, open an issue or send a pull request. We're all learning here.
+
+Wanna Chat? 💬
+GitHub: @maryagetu
+Project link: https://github.com/maryagetu/web-react
